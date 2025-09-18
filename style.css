@@ -1,0 +1,20 @@
+.drp-intpt input{
+    color: black;
+}
+
+
+.cntcard{
+    border:1px solid rgb(240, 239, 239);
+    border-radius: 10px;
+    
+}
+.cartarea{
+    border: 1px solid rgb(212, 210, 210);
+    box-shadow: 1px 0px 1px rgb(190, 190, 190);
+    width: 312px;
+    height: 422px;
+    overflow: hidden;
+    display: grid;
+    grid-template-columns: 1fr 1fr 1fr;
+    
+}
